@@ -36,22 +36,15 @@ This software uses the following open source packages:
 - [Node.js](https://nodejs.org/)
 - [Canvas](https://www.npmjs.com/package/canvas)
 - [Typescript](https://www.npmjs.com/package/typescript)
+- [Golang](https://go.dev)
 
 ## 📌 Related
-
-**[YuMusic](https://discord.com/oauth2/authorize?client_id=1269693868882792478)** - A music bot system. Using `NZSync` for Prefix for all Systems. Providing best user experiences.
-> **NOTE**: Only pair of YuMusic Bots are free and the remains are premium could be paid to use at [yubabe.vn](https://yubabe.vn)
 
 **[Reaction for Yubabe](https://discord.com/oauth2/authorize?client_id=1161305073733877760&permissions=8&scope=applications.commands%20bot)** - A helper bot when using **Yubabe**.
  
 
 ## 💓 Support & Sponsor
-
-+ **[Maginus Multiverse](https://discord.gg/maginus)** - Server Sponsor for Yubabe.
-
-## You may also like...
-
-- [Buy Ycoin and VCoin](https://yubabe.vn) - Buy Bot Cryptocurrency for playing and buying limited items.
++ Finding Sponsor T_t  
 
 ## Contacts
 
